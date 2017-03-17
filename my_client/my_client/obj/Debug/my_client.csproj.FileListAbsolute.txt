@@ -1,0 +1,10 @@
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\my_client\my_client\bin\Debug\my_client.exe
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\my_client\my_client\bin\Debug\my_client.pdb
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\my_client\my_client\obj\Debug\my_client.Form1.resources
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\my_client\my_client\obj\Debug\my_client.Form2.resources
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\my_client\my_client\obj\Debug\my_client.Properties.Resources.resources
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\my_client\my_client\obj\Debug\my_client.csproj.GenerateResource.Cache
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\my_client\my_client\obj\Debug\my_client.exe
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\my_client\my_client\obj\Debug\my_client.pdb
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\my_client\my_client\bin\Debug\my_client.exe.config
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\my_client\my_client\obj\Debug\my_client.csprojResolveAssemblyReference.cache
