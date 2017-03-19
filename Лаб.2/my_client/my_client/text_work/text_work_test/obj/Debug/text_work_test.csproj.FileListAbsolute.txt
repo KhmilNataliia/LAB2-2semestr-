@@ -1,0 +1,14 @@
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\text_work\text_work_test\bin\Debug\text_work_test.dll
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\text_work\text_work_test\bin\Debug\text_work_test.pdb
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\text_work\text_work_test\bin\Debug\text_work.dll
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\text_work\text_work_test\bin\Debug\text_work.pdb
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\text_work\text_work_test\obj\Debug\text_work_test.csprojResolveAssemblyReference.cache
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\text_work\text_work_test\obj\Debug\text_work_test.dll
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\text_work\text_work_test\obj\Debug\text_work_test.pdb
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\my_client\my_client\text_work\text_work_test\bin\Debug\text_work_test.dll
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\my_client\my_client\text_work\text_work_test\bin\Debug\text_work_test.pdb
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\my_client\my_client\text_work\text_work_test\bin\Debug\text_work.dll
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\my_client\my_client\text_work\text_work_test\bin\Debug\text_work.pdb
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\my_client\my_client\text_work\text_work_test\obj\Debug\text_work_test.csprojResolveAssemblyReference.cache
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\my_client\my_client\text_work\text_work_test\obj\Debug\text_work_test.dll
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\my_client\my_client\text_work\text_work_test\obj\Debug\text_work_test.pdb

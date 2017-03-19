@@ -1,0 +1,10 @@
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\text_work\text_work\bin\Debug\text_work.dll
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\text_work\text_work\bin\Debug\text_work.pdb
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\text_work\text_work\obj\Debug\text_work.csprojResolveAssemblyReference.cache
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\text_work\text_work\obj\Debug\text_work.dll
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\text_work\text_work\obj\Debug\text_work.pdb
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\my_client\my_client\text_work\text_work\bin\Debug\text_work.dll
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\my_client\my_client\text_work\text_work\bin\Debug\text_work.pdb
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\my_client\my_client\text_work\text_work\obj\Debug\text_work.csprojResolveAssemblyReference.cache
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\my_client\my_client\text_work\text_work\obj\Debug\text_work.dll
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\Лаб.2\my_client\my_client\text_work\text_work\obj\Debug\text_work.pdb
